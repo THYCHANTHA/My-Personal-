@@ -1,0 +1,141 @@
+# My-Personal-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thy Chantha - Personal Webpage</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        h1, h2 {
+            margin: 0;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background-color: #007bff;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>THY CHANTHA</h1>
+    <h2>Student</h2>
+    <p>[+855]-90-500427</p>
+    <p>chantha99ms@gmail.com</p>
+    <p>#428D, St 907, Chong Khsach Village, Sangkat Toul Sangke,Khan Russey Keo, Phnom Penh</p>
+    <p><a href="https://www.linkedin.com/in/thy-chantha-301313244/">Linkedin:THY CHANTHA</a></p>
+    <p><strong>Telegram:</strong> e20210220 (THY CHANTHA ITC)</p>
+</header>
+
+<section>
+    <h2>PROFILE</h2>
+    <p>
+        As a Data Science Student, I consider myself as a hardworking, responsible, and orderly person. I am looking
+        forward to my first work experience and want to learn new things related to data science. Therefore, I have decided
+        to apply for internships.
+    </p>
+</section>
+
+<section>
+    <h2>EDUCATION</h2>
+    <p>
+        <strong>Institute of Technology of Cambodia</strong><br>
+        Undergraduate of Data Science | 2022-Present<br>
+        Foundation Year GPA: 3.50/4.00<br>
+        Student third year in the Department of Applied Mathematics and Statistics
+    </p>
+    <p>
+        <strong>PUC Institute of Foreign Languages</strong><br>
+        Studying English | 2022-Present
+    </p>
+    <p>
+        <strong>Hun Sen Khchao High School</strong><br>
+        Kampong Cham | 2018-2021
+    </p>
+    <p>
+        <strong>Hun Sen Khchao Secondary School</strong><br>
+        Kampong Cham | 2015-2018
+    </p>
+</section>
+
+<section>
+    <h2>ACHIEVEMENTS</h2>
+    <p>
+        <strong>Program Short Courses</strong><br>
+        C++, C, OOP | 14th July 2023
+    </p>
+    <p>
+        <strong>Introduction to Machine Learning</strong><br>
+        Supervised and Unsupervised | 1st August 2023
+    </p>
+    <p>
+        <strong>Data-Math Hackathon</strong><br>
+        Creative Data Analysis and Collaboration | 13th January 2024
+    </p>
+    <p>
+        <strong>Power of Data Science and Cyber Security</strong><br>
+        Real World Application Sharing | 27th March 2024
+    </p>
+</section>
+
+<section>
+    <h2>SKILLS</h2>
+    <p>
+        <strong>Software tools:</strong><br>
+        Excel, Word, PowerPoint, SQL, Power BI
+    </p>
+    <p>
+        <strong>Program Language:</strong><br>
+        C++, Python
+    </p>
+    <p>
+        <strong>Communication:</strong><br>
+        Khmer (Native), English (Medium), French (Basic)
+    </p>
+    <p>
+        <strong>Technical Skills:</strong> Medium<br>
+        <strong>Machine learning:</strong> Medium
+    </p>
+</section>
+
+<section>
+    <h2>REFERENCES</h2>
+    <p>
+        <strong>PHAUK Sokkhey, Ph.D</strong><br>
+        Deputy head of department of Applied Mathematics and Statistics (AMS) and Head of Master Program of Data Science<br>
+        Email: phauk.sokkhey@itc.edu.kh<br>
+        Phone: [+855]-12-939310
+    </p>
+</section>
+<br>
+<footer>
+    <p>&copy; 2024 Thy Chantha - Personal Webpage</p>
+</footer>
+
+</body>
+</html>
